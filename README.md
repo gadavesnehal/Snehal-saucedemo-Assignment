@@ -23,9 +23,13 @@ npx cypress open
 Once executed, a new Cypress window will open.
 
 a) Select "E2E Testing".
+
 b) Select the "Chrome" browser.
-d) Click "Start E2E Testing in Chrome" to begin running your test cases.
+
+c) Click "Start E2E Testing in Chrome" to begin running your test cases.
 
 //To run login test cases - click on spec file "login.cy.js"
+
 //To run cart test cases - click on spec file "cart.cy.js"
+
 //To run checkout test cases - click on spec file "checkout.cy.js"
