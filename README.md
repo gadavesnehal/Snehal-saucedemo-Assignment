@@ -1,8 +1,11 @@
 #Steps to set up and Run the project:
 
 1.Create any folder in your Computer system
+
 2.Open that folder in Visual Studio Code
+
 3.Click on Terminal menu at the top and open New Terminal
+
 4.Clone the repository using below command -
 
 git clone https://github.com/gadavesnehal/Snehal-saucedemo-Assignment.git
